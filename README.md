@@ -1,6 +1,7 @@
 # PySpark
 A [PySpark](https://sparkbyexamples.com/pyspark/install-pyspark-for-python/) library to apply SQL-like analysis on a huge amount of structured or semi-structured data. We can also use SQL queries with PySparkSQL
 
+This Repository deals with exploring some basic topics of PySpark
 ## Table of contents
  
  - [Pyspark-01](https://github.com/pragyagupta333/PySpark_Basics/blob/main/PySpark_01/PySpark_01.ipynb)
